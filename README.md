@@ -10,7 +10,7 @@
 - 📫 How to reach me **emonkhan562002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p margin-left="30px" align="left">
 <a href="https://www.linkedin.com/in/emon-khan-247498306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emon-khan-247498306/" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100025282659899" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100025282659899" height="30" width="40" /></a>
 <a href="https://instagram.com/em_0n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="em_0n" height="30" width="40" /></a>
